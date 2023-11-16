@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Brina's Demo Repo 
 layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
